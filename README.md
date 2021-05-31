@@ -1,3 +1,4 @@
 # auto_tests1
 auto-tests rep
-В цьому репозиторії я буду залишати варіанти своїх автотестів
+
+I will leave samples for autotests in this repository.
